@@ -120,7 +120,6 @@ def solicitar_dados_com_validacao():
             idade = int(input("Digite a idade: "))
 
         indice = indice + 1
-    
 
 if __name__ == "__main__":
     solicitar_dados_com_validacao()
